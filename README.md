@@ -61,11 +61,9 @@ public class AboutMe
     
     public string[] CurrentlyLearning => new[]
     {
-        "ASP.NET Core Web API",
         "Microservices Architecture",
         "Design Patterns & Best Practices",
         "Unit Testing & TDD",
-        "Docker & CI/CD"
     };
     
     public void Introduction()
