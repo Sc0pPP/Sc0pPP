@@ -46,7 +46,7 @@
 ```csharp
 public class AboutMe
 {
-    public string Name => "[Ваше Имя]";
+    public string Name => "Daniil";
     public string Role => "Student & .NET Developer";
     
     public string[] Skills => new[]
