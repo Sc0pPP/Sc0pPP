@@ -94,8 +94,6 @@ public class AboutMe
 
 ### ⭐ Если вам нравятся мои проекты — поставьте звёздочку!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet)
-
 **Спасибо за визит!** 🚀
 
 </div>
