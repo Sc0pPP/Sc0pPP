@@ -77,12 +77,27 @@ public class AboutMe
 
 ---
 
+## 🚀 Проекты
+
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [warehouse-management-system](https://github.com/Sc0pPP/warehouse-management-system) | Складская система (курсовая) | React · ASP.NET Core · Avalonia · PostgreSQL |
+| [Telesound](https://github.com/Sc0pPP/Telesound) | Telegram-клиент со встроенным музыкальным сервисом | .NET 10 · Avalonia · TDLib |
+| [UP](https://github.com/Sc0pPP/UP) | ShutIkorol — приложение онлайн-библиотеки | .NET 8 · Avalonia · EF Core · SQL Server |
+| [Cosmetic_Lazha](https://github.com/Sc0pPP/Cosmetic_Lazha) | Салон красоты и магазин косметики с ролями | Avalonia · EF Core · SQL Server |
+| [pr15Avalonia](https://github.com/Sc0pPP/pr15Avalonia) | Конфигуратор ПК с проверкой совместимости | Avalonia · EF Core · SQL Server |
+| [localobmen](https://github.com/Sc0pPP/localobmen) | Обмен сообщениями и файлами по локальной сети | C · сокеты |
+| [Pr16Avalonia](https://github.com/Sc0pPP/Pr16Avalonia) | Пошаговая RPG «Подземелье» | Avalonia |
+| [PrConsole](https://github.com/Sc0pPP/PrConsole) | Консольная «Поликлиника» | Java |
+
+---
+
 ## 📫 Связаться со мной
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@soowf0)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](Zevakindana08@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/soowf0)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Zevakindana08@gmail.com)
 </div>
 
 
